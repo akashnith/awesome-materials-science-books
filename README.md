@@ -3,7 +3,7 @@
 
 A curated list of essential books in **Materials Science**, with a focus on **Semiconductors**, **Magnetism**, **Multiferroics**, **Quantum Mechanics**, and **Device Physics**. Ideal for undergraduates, graduates, and researchers building a strong theoretical and practical foundation.
 
->  by Akash — Materials Science, IISc Bangalore
+>  by Akash- Materials Science, IISc Bangalore
 
 ---
 ## **Basics of Materials Science and dive into electronic and magnetic materials**
