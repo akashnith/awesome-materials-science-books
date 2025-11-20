@@ -1,12 +1,12 @@
 
 #  Awesome Booklist
 
-A curated list of essential books in **Materials Science**, with a focus on **Semiconductors**, **Magnetism**, **Multiferroics**, **Quantum Mechanics**, and **Device Physics**. Ideal for undergraduates, graduates, and researchers building a strong theoretical and practical foundation.
+A list of essential books in **Materials Science**, with a focus on **Semiconductors and Device Physics**, **Magnetism**, **Quantum Physics**.deal for undergraduates, and gradualtes building a strong theoretical and practical foundation.
 
->  by Akash- Materials Science, IISc Bangalore
+>  by Akash Prajapati, IISc Bangalore
 
 ---
-## **Basics of Materials Science and dive into electronic and magnetic materials**
+## **Basics of Materials Science and Solid State Physics**
 * **Materials Science and Engineering An Introduction** - William D. Callister (Best book to start in materials science)
 * **Introduction to Solid State Physics** - Charles Kittel
 
@@ -15,24 +15,23 @@ A curated list of essential books in **Materials Science**, with a focus on **Se
 * **Semiconductor Devices Physics and Technology**- S. M. Sze and M. K. Lee
 * **Advanced Semiconductor Fundamentals** - Roberrt F. Pierret
 * **Semiconductor Physics** - Bohr and Pohl
-* **Electronic Materials & Devices (4th Ed)**
+* **Principles of electronic materials and devices**-S.O. Kasap
 * **Electronic Properties of Materials** - R.H. Hummel
 * **Introduction to the Electronic Properties of Materials** - David C. Jiles
 * **Principles of the Theory of Solids** - J. M. Ziman
 * **The Art of Electronics** - Paul Horowitz & Winfield Hill
 ---
 
-## 🧲 **Magnetism & Spintronics**
+## **Magnetism & Spintronics**
 * **Magnetic Materials** - Nicola A. Spaldin
 * **Introduction to Magnetic Materials** - B.D. Cullity
 * **Magnetism in Condensed Matter** - Stephen Blundell
-
 ---
 
 ## **Mathematical & Computational Foundations**
-* **Advanced Engineering Mathematics (10th Ed)** - Erwin Kreyszig
- * **Introduction to Partial Differential Equations - A Computational Approach** - A. Tveito suggested by a good friend 
-* **Mathematical Methods for Physicists** - George B. Arfken & Hans J. Weber
+* **Advanced Engineering Mathematics** - Erwin Kreyszig
+ * **Introduction to Partial Differential Equations - A Computational Approach** - A. Tveito {Suggested by a good friend}
+* **Mathematical Methods for Physicists** -George B. Arfken & Hans J. Weber
 ---
 
 ## **Quantum Mechanics & Theory**
