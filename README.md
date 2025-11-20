@@ -9,6 +9,8 @@ A list of essential books in **Materials Science**, with a focus on **Semiconduc
 ## **Basics of Materials Science and Solid State Physics**
 * **Materials Science and Engineering An Introduction** - William D. Callister (Best book to start in materials science)
 * **Introduction to Solid State Physics** - Charles Kittel
+* **Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World**-Mark Miodownik
+
 
 ##  **Semiconductors & Electronic Materials**
 * **Semiconductor Physics and Devices** - Donald A. Neamen  (Best book to start semiconductor journey)
