@@ -48,6 +48,10 @@ A list of essential books in **Materials Science**, with a focus on **Semiconduc
 * **The Materials Science of Thin Film**-Milton Ohring
 * **Transmission Electron Microscopy** -D.B. Williams & C.B. Carter
 
+## **Ferroelectrics and Ferroelectronics**
+* **Principles and Applications of Ferroelectrics and Related Materials** - M. E. Lines and A. M. Glass (Oxford University Press, 2001)
+* **Ferroelectric Memory Devices** - A short intro to ferroelectric based memory devices: [PDF](https://www.rug.nl/research/zernike/education/topmasternanoscience/ns190lous.pdf)
+
 ---
 
 Hope it will be helpful
